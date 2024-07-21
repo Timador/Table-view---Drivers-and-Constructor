@@ -1,4 +1,4 @@
-DRIVES
+DRIVERS
 
 package demo_jdbc.respositories;
 
